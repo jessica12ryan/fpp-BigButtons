@@ -6,6 +6,7 @@
 	"homeURL": "https://github.com/FalconChristmas/fpp-BigButtons",
 	"srcURL": "https://github.com/FalconChristmas/fpp-BigButtons.git",
 	"bugURL": "https://github.com/FalconChristmas/fpp-BigButtons/issues",
+	"iconURL": "https://raw.githubusercontent.com/FalconChristmas/fpp-BigButtons/master/icon.png",
 	"versions": [
 		{
 			"minFPPVersion": "0",
